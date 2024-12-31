@@ -2,7 +2,7 @@
   
 
 
-<h2 align="center">Leetcode Info<h2>  
+<!-- <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/its-Proton2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/its-Proton2004/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="jyot" height="200" width="200" /></a>
@@ -14,7 +14,7 @@
 <p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Proton2004?theme=dark" />  
-</p>
+</p> -->
 
 
 
