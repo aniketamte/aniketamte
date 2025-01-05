@@ -1,7 +1,7 @@
 <div align="center"> 
   
 <br/>
-  <h2 align="center">⚡ Current Stats ⚡</h2>
+  <h2 align="center">⚡ Current Stats. ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=aniketamte&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
