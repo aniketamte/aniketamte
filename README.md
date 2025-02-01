@@ -9,6 +9,20 @@
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
+
+  ### 🙋‍♂️ About Me
+- 👩‍🎓 I'm a sophomore at **Pune University studying Information Technology**
+
+- 🔭 I’m looking to contribute to **Open Source**
+
+- 🌱 I’m currently exploring **NextJS**
+
+- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=aniketamte123@gmail.com" style="text-decoration: none;">Email</a>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+  
 <div align="center"> 
 
   <h2 align="center">⚡<b><i>Current Stats.</i></b>⚡</h2>
