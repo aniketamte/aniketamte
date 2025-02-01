@@ -1,3 +1,14 @@
+<div align="center" >
+  <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+</div>
+
+<h1 align="center">Hi 👋, I'm Aniket Amte</h1>
+
+<h3 align="center">A passionate Full stack web developer from India. </h3>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 <div align="center"> 
 
   <h2 align="center">⚡<b><i>Current Stats.</i></b>⚡</h2>
