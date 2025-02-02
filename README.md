@@ -11,7 +11,7 @@
 </p>
 
   ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm a sophomore at **Pune University studying Information Technology**
+- 👩‍🎓 I'm a Pre-Final year Student at **Pune University studying Information Technology**
 
 - 🔭 I’m looking to contribute to **Open Source**
 
