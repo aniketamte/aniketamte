@@ -11,6 +11,8 @@
 </p>
 
   ### 🙋‍♂️ About Me
+- 🔭 I’m currently working at [JP Technologies Pvt.Ltd](https://www.jptechnologie.com/)
+
 - 👩‍🎓 I'm a Pre-Final year Student at **Pune University studying Information Technology**
 
 - 🔭 I’m looking to contribute to **Open Source**
