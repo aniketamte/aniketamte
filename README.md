@@ -59,20 +59,8 @@
   <a href="https://leetcode.com/aniketamte/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/aniketamte/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="jyot" height="200" width="200" /></a>
 </p>
-    ### 🏆 Postman API Badge
-<div align="center">
-    <h2>🏆 <b>Certifications</b> 🏆</h2>
-    <blockquote class="badgr-badge" style="display: flex; flex-direction: column; align-items: center; text-align: center; background: #f8f9fa; padding: 10px; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-      <a href="https://api.badgr.io/public/assertions/jqB8refaSrGws9KlH3Y6yQ?identity__email=aniketamte123%40gmail.com">
-        <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/jqB8refaSrGws9KlH3Y6yQ/image">
-      </a>
-      <p class="badgr-badge-name" style="font-size: 16px; font-weight: 600;">Postman API Fundamentals Student Expert</p>
-      <p class="badgr-badge-date" style="font-size: 12px; color: #555;"> <strong>Awarded: </strong>Feb 20, 2025</p>
-      <a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FjqB8refaSrGws9KlH3Y6yQ%3Fidentity__email%3Daniketamte123%2540gmail.com&amp;identity__email=aniketamte123%40gmail.com" style="display: inline-block; padding: 6px 16px; font-size: 14px; font-weight: bold; border: 1px solid black; border-radius: 4px; text-decoration: none; color: black;">VERIFY</a>
-    </blockquote>
-  </div>
+   
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
-<br/><br/>
 
