@@ -45,6 +45,8 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=aniketamte&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketamte&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top language" />
+  <hr>
+  <img src="https://github-profile-trophy.vercel.app/?username=aniketamte&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="Aniket-Amte"/>
 </div>
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
