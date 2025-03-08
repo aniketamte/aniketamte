@@ -35,9 +35,6 @@
 <div align="center"> 
 
   <h2 align="center">⚡<b><i>Current Stats.</i></b>⚡</h2>
-  <p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
 <br>
 <div align=center>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketamte&label=Profile%20views&color=0e75b6&style=flat" alt="aniketamte" /> </p>
@@ -53,9 +50,7 @@
 </p>
   <br/>
   <h2 align="center">⚡<b><i>Leetcode Info.</i></b>⚡<h2> 
-    <p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
+    
 <p align="center">
   <a href="https://leetcode.com/aniketamte/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/aniketamte/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
