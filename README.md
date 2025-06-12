@@ -11,6 +11,8 @@
 </p>
 
   ### 🙋‍♂️ About Me
+  
+- 🔭 I’m currently working as a Summer Intern at [Sasken Technologies](https://www.sasken.com/)
 - 🔭 I’m currently working at [JP Technologies Pvt.Ltd](https://www.jptechnologie.com/)
 
 - 👩‍🎓 I'm a Pre-Final year Student at **Pune University studying Information Technology**
