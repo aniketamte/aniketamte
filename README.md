@@ -12,7 +12,7 @@
 
   ### 🙋‍♂️ About Me
   
-- 🔭 I’m currently working as a Summer Intern at [Sasken Technologies](https://www.sasken.com/)
+- 🔭 Ex - I’m currently working as a Summer Intern at [Sasken Technologies](https://www.sasken.com/)
 - 🔭 Ex - Frontend Developer Intern at [JP Technologies Pvt.Ltd](https://www.jptechnologie.com/)
 
 - 👩‍🎓 I'm a Final year Student at **Pune University studying Information Technology**
