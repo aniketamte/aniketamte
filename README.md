@@ -11,7 +11,7 @@
 </p>
 
   ### 🙋‍♂️ About Me
-  
+- 🧑‍💻 CyberSecurity Analyst Trainee @DeloitteUSI🔥💖
 - 🔭 Ex - Former Summer Intern at [Sasken Technologies](https://www.sasken.com/)
 - 🔭 Ex - Former Frontend Developer Intern at [JP Technologies Pvt.Ltd](https://www.jptechnologie.com/)
 
